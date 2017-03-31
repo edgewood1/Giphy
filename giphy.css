@@ -1,0 +1,9 @@
+header, form, .buttons {
+	text-align: center;
+}
+
+body {
+	background-color: #e60000;
+}
+
+p, h1, label { color: white; }
